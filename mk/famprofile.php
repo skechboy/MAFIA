@@ -26,5 +26,5 @@ DEFINE("_P_INFO2",    			            "Сопственост");
 DEFINE("_P_BTN1",    			            "Нападни");
 DEFINE("_SHOP_ITEM14",    			        "Поени за напад");
 DEFINE("_RACE_COL3",    			        "Вредност");
-DEFINE("_NO_FAMILIES",    			    "Сеуште нема оформени фамилии...");
+DEFINE("_NO_FAMILIES",    			    "Сè уште нема оформени фамилии...");
 ?>
