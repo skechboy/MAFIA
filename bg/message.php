@@ -22,9 +22,10 @@ DEFINE("_MSG_ERROR3",					"Моля въведете съобщение");
 DEFINE("_NEWS_INBOX_ALL",				"Всички съобщения");
 DEFINE("_NEWS_INBOX_EMPTY",				"Нямате получени съобщения");
 DEFINE("_NEWS_FORUM_ALL",				"Виж форума");
-DEFINE("_NOT_READED",					"Пораката не ви е прочитана");
-DEFINE("_READED",						"Пораката ви е прочитана");
-DEFINE("_DELETE",						"Избриши");
+DEFINE("_NOT_READED",					"Съобщението не е прочетено");
+DEFINE("_READED",						"Съобщението е прочетено");
+DEFINE("_DELETE",						"Изтрий");
 DEFINE("_QUOTE",						"Цитат");
+DEFINE("_MSG_REPORT",						"Докл. нередност");
 
 ?>

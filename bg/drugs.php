@@ -12,7 +12,7 @@ DEFINE("_DU_MSG3",					        "Нямаш достатъчно пари за д
 DEFINE("_DU_PREFIX",					    "<strong>кг.</strong> на ден");
 DEFINE("_DU_PRICEPREFIX",                   "<strong> лв.</strong> на ъпгрейд");
 DEFINE("_DU_INFO1",                         "Този наркотик е възможен за производство след ранг");
-DEFINE("_DU_INFO2",                         "Твоето максимално възможно производство в момента е");
+DEFINE("_DU_INFO2",                         "Твоето макс. производство в момента е");
 DEFINE("_DU_INFO3",                         "<strong>кг.</strong> на ден");
 DEFINE("_DRUG1",                            "Марихуана");
 DEFINE("_DRUG2",                            "Халюциногенни гъби");
