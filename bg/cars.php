@@ -37,5 +37,6 @@ DEFINE("_CAR15",						"Ferrari F430 Scuderia");
 DEFINE("_CAR16",						"Lamborghini Murciélago");
 DEFINE("_CAR17",						"Mercedes-Benz SLR McLaren");
 DEFINE("_CAR18",						"Bugatti Veyron");
-
+DEFINE("_FAST_CARS",						"Нужно е да имаш ранг поне ");
+DEFINE("_TOP_CARS",						"Нужно е да имаш ранг поне ");
 ?>

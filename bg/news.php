@@ -20,4 +20,10 @@ DEFINE("_NEWS_INBOX_ALL",				"Всички съобщения");
 DEFINE("_NEWS_INBOX_EMPTY",				"Нямате получени съобщения");
 DEFINE("_NEWS_FORUM_ALL",				"Виж форума");
 DEFINE("_EXPIRIENCE",				    "Повишаване");
+DEFINE("_P_KILLERS",   			        "Убийци");
+DEFINE("_P_WINS",    			        "Брой победи");
+DEFINE("_P_LOSES",    			        "Брой загуби");
+DEFINE("_P_SHITS",    			       	"Точки за атака");
+DEFINE("_KILLS",    			       	"Убийства");
+DEFINE("_LEFT_LIVES",    			    "Оставащи животи");
 ?>
